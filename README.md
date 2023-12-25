@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav Deshmukh
-- 👀 I’m interested in Algorithmic Development
-- 🌱 I’m currently learning React, Typescript, Node.
+- 👀 I’m interested in Algorithmic Development, solving Real-World Problems
+- 🌱 I’m currently learning React, Typescript, PostgreSQL, MongoDB, and Node.
 - 📫 How to reach me abhinavdeshmukh2101@gmail.com
 
 <!---
